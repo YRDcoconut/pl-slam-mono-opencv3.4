@@ -1,0 +1,1 @@
+./Examples/Monocular/mono_kitti Vocabulary/ORBvoc.bin Examples/Monocular/KITTIX.yaml /home/da/DATA/KittiSequences/07/image_0
